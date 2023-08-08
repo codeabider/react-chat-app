@@ -1,0 +1,14 @@
+.text-area-container {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.text-area-container .internal-container {
+  display: flex;
+  background-color: #fff;
+  border-radius: 25px;
+}
+
+.text-area {
+  width: 100%;
+}

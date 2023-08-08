@@ -1,0 +1,4 @@
+.conversation-list .test.Mui-selected,
+.conversation-list .test.Mui-selected:hover {
+  background-color: #fdf4c8;
+}

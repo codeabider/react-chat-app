@@ -1,0 +1,29 @@
+.box {
+  display: flex;
+}
+
+.box.sender {
+  justify-content: flex-end;
+}
+
+.bubble {
+  background-color: #e4e4e4;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  font-size: 0.87em;
+  margin: 5px 0;
+  max-width: 400px;
+  padding: 5px 10px;
+  width: 80%;
+}
+
+.bubble.sender {
+  background-color: #dcffa7;
+}
+
+.time {
+  align-self: flex-end;
+  margin: 5px 0 0 0;
+  color: #808080;
+}

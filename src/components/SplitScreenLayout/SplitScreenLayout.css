@@ -1,0 +1,23 @@
+.split-screen-layout {
+  display: flex;
+  height: 94vh;
+}
+
+.left-side {
+  align-items: center;
+  box-sizing: border-box;
+  display: flex;
+  justify-content: center;
+  max-width: 400px;
+  min-width: 200px;
+  width: 40%;
+}
+
+.right-side {
+  background-color: #aeaeae;
+  align-items: center;
+  box-sizing: border-box;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+}
